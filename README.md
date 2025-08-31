@@ -6,7 +6,7 @@
   Inspired by [Big Sur for Rainmeter](https://www.deviantart.com/fediafedia/art/Big-Sur-RC1-for-Rainmeter-846882462)
 </div>
 
-> **Note:** This is an archived Rainmeter extension that is now maintained by [elecxDev](https://github.com/elecxDev).
+> **Note:** This is an archived Rainmeter extension by [creewick](https://github.com/creewick) that is now maintained by [elecxDev](https://github.com/elecxDev).
 
 ## Get started
 
